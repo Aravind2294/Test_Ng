@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-21T20:18:05Z" name="Default suite" finished-at="2021-10-21T20:18:05Z" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2021-10-21T20:18:05Z" name="Default test" finished-at="2021-10-21T20:18:05Z" duration-ms="40">
+      <class name="com.Simple_Annotation.Simple_Annotations">
+        <test-method is-config="true" signature="serproperty()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="serproperty" finished-at="2021-10-22T01:48:05Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serproperty -->
+        <test-method is-config="true" signature="browserlaunch()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="browserlaunch" finished-at="2021-10-22T01:48:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method is-config="true" signature="url()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="url" finished-at="2021-10-22T01:48:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="login" finished-at="2021-10-22T01:48:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="earphone()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="earphone" finished-at="2021-10-22T01:48:05Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earphone -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="logout" finished-at="2021-10-22T01:48:05Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="login" finished-at="2021-10-22T01:48:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="laptop()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="laptop" finished-at="2021-10-22T01:48:05Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptop -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="logout" finished-at="2021-10-22T01:48:05Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="mobile()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="mobile" finished-at="2021-10-22T01:48:05Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="login" finished-at="2021-10-22T01:48:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="logout" finished-at="2021-10-22T01:48:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="homepage()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="homepage" finished-at="2021-10-22T01:48:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:05Z" name="close" finished-at="2021-10-22T01:48:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="deleteallcookies()[pri:0, instance:com.Simple_Annotation.Simple_Annotations@42a15bdc]" started-at="2021-10-22T01:48:06Z" name="deleteallcookies" finished-at="2021-10-22T01:48:06Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteallcookies -->
+      </class> <!-- com.Simple_Annotation.Simple_Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
